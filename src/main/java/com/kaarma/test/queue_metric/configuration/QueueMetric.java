@@ -2,7 +2,7 @@ package com.kaarma.test.queue_metric.configuration;
 
 import java.util.Properties;
 
-import org.hibernate.validator.cfg.context.MethodConstraIntegerMappingContext;
+import org.hibernate.validator.cfg.context.MethodConstraintMappingContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.core.Queue;
